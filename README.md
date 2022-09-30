@@ -7,7 +7,7 @@ To know more about the rules, head towards this [link](https://hacktoberfest.com
 So, to complete the requirements, finish atleast 4 tasks listed below.
 
 ## Task 1 - Create your first Pull Request
-1. Go to the (Contributers.md)[/Contributors.md] file
+1. Go to the [Contributers.md](/Contributors.md) file
 2. Click on the edit button on top right of the file ✏️ 
 3. Add your name with your github id in the list of contributers
 4. Give an appropriate commit message like "Add my name as a contributer"
