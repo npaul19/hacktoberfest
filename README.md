@@ -28,7 +28,7 @@ Till then, complete atleast 3 more tasks to land under the first 40,000 particip
 7. Hit **Create pull request** button and wait for your PR to be labelled
 
 ## Task 3 - Hello World (For Beginner Programmers)
-
+Checkout README of [Task-3](/Task-3)
 
 ## Task 4 - Easy Peasy Logic (For Intermediate Programmers)
 
