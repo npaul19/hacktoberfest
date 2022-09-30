@@ -18,7 +18,7 @@ So, to complete the requirements, finish atleast 4 tasks listed below.
 Wait for some time and I'll try to put a *hacktoberfest-accepted* label on your pull request as soon as possible.
 Till then, complete atleast 3 more tasks to land under the first 40,000 participants.
 
-## Task 2 - Innovative App Ideas 
+## Task 2 - Innovative App Ideas <br> gbj
 ### (For Non Programmers)
 1. Go to this [App Ideas](/Task2/App Ideas.md)
 2. Think of an innovative app idea
@@ -28,8 +28,9 @@ Till then, complete atleast 3 more tasks to land under the first 40,000 particip
 6. Click on **Propose Changes** button
 7. Hit **Create pull request** button and wait for your PR to be labelled
 
-## Task 3 - Hellow World
+## Task 3 - Hello World
 ### (For Beginner Programmers)
+
 
 ## Task 4 - Easy Peasy Logic
 ### (For Intermediate Programmers)
