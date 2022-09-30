@@ -31,5 +31,6 @@ Till then, complete atleast 3 more tasks to land under the first 40,000 particip
 Checkout README of [Task-3](/Task-3)
 
 ## Task 4 - Easy Peasy Logic (For Intermediate Programmers)
+Checkout README of [Task-4](/Task-4)
 
 ## Task 5 - TDD (For Advanced Programmers)
