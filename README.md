@@ -20,7 +20,7 @@ Till then, complete atleast 3 more tasks to land under the first 40,000 particip
 
 ## Task 2 - Innovative App Ideas <br> gbj
 ### (For Non Programmers)
-1. Go to this [App Ideas](/Task2/App Ideas.md)
+1. Go to the file - [App Ideas](/Task-2/App%20Ideas.md)
 2. Think of an innovative app idea
 3. Click on the edit button on top right of the file ✏️ 
 4. Add the name of your idea (and description if you want) in the list
