@@ -18,8 +18,7 @@ So, to complete the requirements, finish atleast 4 tasks listed below.
 Wait for some time and I'll try to put a *hacktoberfest-accepted* label on your pull request as soon as possible.
 Till then, complete atleast 3 more tasks to land under the first 40,000 participants.
 
-## Task 2 - Innovative App Ideas <br> gbj
-### (For Non Programmers)
+## Task 2 - Innovative App Ideas <br> (For Non Programmers)
 1. Go to the file - [App Ideas](/Task-2/App%20Ideas.md)
 2. Think of an innovative app idea
 3. Click on the edit button on top right of the file ✏️ 
