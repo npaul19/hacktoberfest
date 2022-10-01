@@ -4,6 +4,9 @@ using namespace std;
 void swap2Numbers(int *x, int *y)
 {
     // Insert code here
+    int temp = *x;
+    *x = *y;
+    *y = temp;
 }
 
 int main()
