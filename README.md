@@ -15,6 +15,7 @@ So, to complete the requirements, finish atleast 4 tasks listed below.
 5. Click on **Propose Changes** button
 6. Hit **Create pull request** button and there you go !!! 
 🎉 Looks like you got your first contribution!
+
 Wait for some time and I'll try to put a *hacktoberfest-accepted* label on your pull request as soon as possible.
 Till then, complete atleast 3 more tasks to land under the first 40,000 participants.
 
