@@ -4,3 +4,4 @@ Contributers List:
 - [Nishtha Paul](https://github.com/nishthapaul)
 - [Renu Paul](https://github.com/renupaul)
 - [Akshit Batra](https://github.com/akbatra567)
+- [Vaibhav singh](https://github.com/VAIBHAV0526)
