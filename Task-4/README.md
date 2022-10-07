@@ -15,4 +15,6 @@ Problem 6 : [Longest Palindrome Substring](./LongestPalindromicSubstring.cpp)
 
 Problem 7 : [Find Duplicate Element](./FindDuplicate.java)
 
+Problem 8 : [Check for Twin Primes](./TwinPrimeCheck.java)
+
 You can also add a new practice question in any language of your choice.
