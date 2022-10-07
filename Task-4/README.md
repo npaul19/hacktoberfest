@@ -9,7 +9,10 @@ Problem 3 : [Arrays Sum](./arrays.cpp)
 
 Problem 4 : [Fibonacci Number](./Fibonacci_Number.cpp)
 
-Problem : 
+Problem 5 : [Loop in Linked List](./loopInLL.cpp)
 
+Problem 6 : [Longest Palindrome Substring](./LongestPalindromicSubstring.cpp)
+
+Problem 7 : [Find Duplicate Element](./FindDuplicate.java)
 
 You can also add a new practice question in any language of your choice.
