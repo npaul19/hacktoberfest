@@ -17,4 +17,6 @@ Problem 7 : [Find Duplicate Element](./FindDuplicate.java)
 
 Problem 8 : [Check for Twin Primes](./TwinPrimeCheck.java)
 
+Problem 9 : [Convert Roman Number To Integer](./RomanToInteger.java)
+
 You can also add a new practice question in any language of your choice.
