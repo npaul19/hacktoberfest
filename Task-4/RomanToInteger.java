@@ -1,4 +1,4 @@
-import java.util.Map;
+import java.util.*;
 
 class RomanToInteger {
   static Map<String, Integer> values = new HashMap<>();
