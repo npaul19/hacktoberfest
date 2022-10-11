@@ -27,4 +27,6 @@ Problem 12 : [String Palindrome](./StringPalindrome.java)
 
 Problem 13 : [Number Palindrome](./NumberPalindrome.java)
 
+Problem 14 : [Max Occurance](./MaxOccurance.java)
+
 You can also add a new practice question in any language of your choice.
