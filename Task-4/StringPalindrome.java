@@ -1,11 +1,12 @@
 public class StringPalindrome {
   public static void main(String[] args){
-    System.out.println(isPalindrome("abcba")); // true
-    System.out.println(isPalindrome("abccba")); // true
-    System.out.println(isPalindrome("abcbbaz")); // false
+    System.out.println(isPalindrome1("abcba")); // true
+    System.out.println(isPalindrome1("abccba")); // true
+    System.out.println(isPalindrome1("abcbbaz")); // false
   }
-  
-  public static boolean isPalindrome(String str){
+
+    //Time Complexity:- O(N)
+    public static boolean isPalindrome1(String str){
 
       boolean check = true;
       int length = str.length();
