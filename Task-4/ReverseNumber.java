@@ -1,7 +1,14 @@
 class ReverseNumber
-{
-  static  int reverse(int num) {
-    return -1;
+{   
+  static  int reverse(int number) {
+    int reversed = 0;
+    while(number != 0) {  
+      int remainder = number % 10;  
+      reversed = reversed * 10 + remainder;  
+      number = number/10;  
+      }
+    return reversed;
+ 
   }
   public static void main(String args[])
   {
