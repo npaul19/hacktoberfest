@@ -23,4 +23,8 @@ Problem 10 : [Sum Closest](./SumClosest.java)
 
 Problem 11 : [Reverse Number](./ReverseNumber.java)
 
+Problem 11 : [String Palindrome](./StringPalindrome.java)
+
+Problem 12 : [Number Palindrome](./NumberPalindrome.java)
+
 You can also add a new practice question in any language of your choice.
