@@ -9,5 +9,5 @@ Contributers List:
 - [Sakshi Jain](https://github.com/Sakshi-75)
 - [Swapnil Aichbhaumik](https://github.com/Swap-nil-2003) 
 - [Anant Agarwal](https://github.com/anantagarwal9) 
-- [Manpreet Kaur] (https://github.com/kaurmanpreet26)
-- [Mohammed Salman] (https://github.com/s-aLman)
+- [Manpreet Kaur](https://github.com/kaurmanpreet26)
+- [Mohammed Salman](https://github.com/s-aLman)
