@@ -12,8 +12,4 @@ public class ArraySum {
   }
 }
 
-
-
-
-
 //prints Sum: 24
