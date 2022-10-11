@@ -1,5 +1,6 @@
 # Easy Peasy Logic !!!
-Solve these problems and wait for many more to come.
+Check out the issues tab for unsolved problems and wait for many more to come.
+You can also suggest an optimized version of the present solutions.
 
 Problem 1 : [Leap year](./leapyear.cpp)
 
