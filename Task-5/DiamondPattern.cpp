@@ -9,8 +9,12 @@
       *   *
         *
 */
-public class DiamondPattern {
-  public static void main(String[] args){
+#include <iostream>
+using namespace std;
+
+int main()
+{
     // Write code here
-  }
+    
+    return 0;
 }
