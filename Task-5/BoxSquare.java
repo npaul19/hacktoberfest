@@ -1,4 +1,4 @@
-/* Full Square Pattern
+/* Box Square Pattern
 * * * * *
 *       *
 *       *
