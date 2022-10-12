@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.HashMap;
 
 public class FindDuplicate {
     public static void main(String[] args) {
@@ -9,6 +10,20 @@ public class FindDuplicate {
     }
 
     private static int findDuplicateElement(ArrayList<Integer> arr) {
+        ArrayList<Integer> elements = new ArrayList<>();
+        int flag = 0;
+        int duplicate = 0;
+        for(int i: arr){
+            if(!elements.contains(i))
+                elements.add(i);
+            else
+            {
+                flag = 1;
+                duplicate = i;
+            }
+        }
+        if (flag == 1)
+            return duplicate;
         return -1;
     }
 }
