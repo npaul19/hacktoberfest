@@ -8,7 +8,16 @@ public class FindDuplicate {
         System.out.println(findDuplicateElement(arr));
     }
 
-    private static int findDuplicateElement(ArrayList<Integer> arr) {
-        return -1;
+    private static int findDuplicateElement(ArrayList<Integer> nums) {
+        int duplicate = -1;
+        for (int i = 0; i < nums.size(); i++) {
+            int cur = Math.abs(nums.get(i));
+            if (nums.get(cur) < 0) {
+                duplicate = cur;
+                break;
+            }
+            nums.add(cur, nums.get(cur)*-1);
+        }
+        return duplicate;
     }
 }
