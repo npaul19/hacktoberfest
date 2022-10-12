@@ -10,7 +10,7 @@ public class Triangle1 {
     int r=5;
     for(int i=0;i<r;i++){
       for(int j=0;j<=i;j++){
-        System.out.print("*")
+        System.out.print("*");
         if(j<i){
           System.out.print(" ");
         }
