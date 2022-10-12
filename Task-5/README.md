@@ -35,7 +35,7 @@ Problem 15 : [Triangle Pattern 13](./Triangle13.java)
 
 Problem 16 : [Triangle Pattern 14](./Triangle14.java)
 
-Problem 17 : [Diamond Pattern](./DiamondPattern.java)
+Problem 17 : [Diamond Pattern](./DiamondPattern.cpp)
 
 You can also add a new practice question in any language of your choice.
 
