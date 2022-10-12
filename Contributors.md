@@ -12,3 +12,4 @@ Contributers List:
 - [Manpreet Kaur](https://github.com/kaurmanpreet26)
 - [Mohammed Salman](https://github.com/s-aLman)
 - [Varnika Bagaria](https://github.com/VarnikaB)
+- [Ishita Rawal](https://github.com/ishitarawal16)
