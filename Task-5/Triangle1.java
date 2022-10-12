@@ -1,4 +1,4 @@
-/* Full Square Pattern
+/* Triangle Pattern 1
 *
 * *
 * * *
