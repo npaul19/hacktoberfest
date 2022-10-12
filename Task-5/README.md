@@ -27,4 +27,16 @@ Problem 11 : [Triangle Pattern 9](./Triangle9.java)
 
 Problem 12 : [Triangle Pattern 10](./Triangle10.java)
 
+Problem 13 : [Triangle Pattern 11](./Triangle11.java)
+
+Problem 14 : [Triangle Pattern 12](./Triangle12.java)
+
+Problem 15 : [Triangle Pattern 13](./Triangle13.java)
+
+Problem 16 : [Triangle Pattern 14](./Triangle14.java)
+
+Problem 17 : [Diamond Pattern](./DiamondPattern.java)
+
 You can also add a new practice question in any language of your choice.
+
+Note: Please update the given file and don't add a new file. If you want to solve it in any other langugae, mention it in the related issue, I'll remove the java file and add a file in your preferred language.

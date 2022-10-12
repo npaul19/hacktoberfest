@@ -12,7 +12,7 @@ public class BoxSquare {
     for(int i=1;i<=m;i++){
         //outer loop
         for (int j=1; j<=n; j++) {
-            //inner loop
+            //inner loop ̰
             if (i==1 || j==1 || i==n || j==n){
                 System.out.print("* ");
             }
