@@ -34,4 +34,7 @@ Checkout README of [Task-3](/Task-3)
 ## Task 4 - Easy Peasy Logic (For Intermediate Programmers)
 Checkout README of [Task-4](/Task-4)
 
-## Task 5 - TDD (For Advanced Programmers)
+## Task 5 - Pattern Programming (For Intermediate Programmers)
+Checkout README of [Task-5](/Task-5)
+
+## Task 6 - TDD (For Advanced Programmers)
