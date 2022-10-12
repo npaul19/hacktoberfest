@@ -14,9 +14,9 @@ public class BoxSquare {
         for (int j=1; j<=n; j++) {
             //inner loop
             if (i==1 || j==1 || i==n || j==n){
-                System.out.print("*");
+                System.out.print("* ");
             }
-            else{System.out.print(" ");
+            else{System.out.print("  ");
                 }
         }
         System.out.println();
