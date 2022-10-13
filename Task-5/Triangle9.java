@@ -8,7 +8,7 @@
 public class Triangle9 {
   public static void main(String[] args){
     // Write code here
-    int row,space,i,j,k;
+    int row,space,i,j;
         row = 3;  
         space = row - 1;  
         for (j = 1; j<= row; j++)  

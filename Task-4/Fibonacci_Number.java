@@ -1,5 +1,5 @@
 //Program to find nth Fibonacci Number
-public class FibonacciNumber{
+public class Fibonacci_Number{
   public static void main(String[] args){
     int number = 8;
     System.out.println("Nth number in the series is: "+findFib(number));

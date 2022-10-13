@@ -1,9 +1,7 @@
-import Java.util.*;   
-import java.io.*;   
 import java.util.Scanner;  
   
 // create LCSExample1 class to find the Longest Common Subsequence  
-class LCSExample1 {  
+class LCS {  
       
     // create findLengthOfLCS() method that returns the longest common sequences  
     public static String findLengthOfLCS(String str1, String str2, int p, int q) {  
@@ -68,6 +66,6 @@ class LCSExample1 {
           
         System.out.print("Sequence1: " + str1 + "\nSequence2: " + str2);  
         System.out.println("\nLCS: "+LCS);  
-          
+        sc.close();
     }  
 }  

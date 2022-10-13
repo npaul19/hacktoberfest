@@ -10,5 +10,6 @@ public class Hello_world {
         name = input.nextLine();
 
         System.out.println("\nHello World! My name is " + name);
+        input.close();
     }
 }
