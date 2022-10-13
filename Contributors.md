@@ -17,4 +17,4 @@ Contributers List:
 - [Arnv Gl](https://github.com/arnvgl)
 - [Rhea Sidana](https://github.com/RheaSidana)
 - [Noora Nasrin VC](https://github.com/nooranasrin)
-- 
+- [Jaya Gupta](https://github.com/jaya2320)
