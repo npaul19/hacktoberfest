@@ -43,6 +43,14 @@ Problem 18 : [Triangle Pattern 15](./Triangle15.java)
 
 Problem 19 : [Hollow Diamond](./HollowDiamond.cpp)
 
+## Alphabets Patterns
+
+Problem 1 : [Dimaond Pattern](./AlphabetsPattern/DiamondPattern.java)
+
+## Numbers Patterns
+
+Problem 1 : [Binary Pattern 1](./NumbersPattern/BinaryPattern1.java)
+
 You can also add a new practice question in any language of your choice.
 
 Note: Please update the given file and don't add a new file. If you want to solve it in any other langugae, mention it in the related issue, I'll remove the java file and add a file in your preferred language.
