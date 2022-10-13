@@ -41,7 +41,7 @@ Problem 17 : [Diamond Pattern](./DiamondPattern.cpp)
 
 Problem 18 : [Triangle Pattern 15](./Triangle15.java)
 
-Problem 19 : [Hollow Diamond](./HollowDiamond.java)
+Problem 19 : [Hollow Diamond](./HollowDiamond.cpp)
 
 You can also add a new practice question in any language of your choice.
 

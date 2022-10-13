@@ -1,4 +1,4 @@
-/* Full Square Pattern
+/* Hollow Diamond Pattern
 * * * * * * * * *
 * * * *   * * * *
 * * *       * * *
@@ -9,10 +9,11 @@
 * * * *   * * * *
 * * * * * * * * *
 */
+#include <iostream>
+using namespace std;
 
-public class HollowDiamond {
-  public static void main(String[] args) {
+int main()
+{
     // Write code here
-    
-  }
+    return 0;
 }
