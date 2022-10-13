@@ -3,6 +3,8 @@ Check out the issues tab for unsolved problems and wait for many more to come.
 
 You can also suggest an optimized version of the present solutions.
 
+## Star Patterns
+
 Problem 1 : [Full Square](./FullSquare.java)
 
 Problem 2 : [Box Square](./BoxSquare.java)
@@ -38,6 +40,8 @@ Problem 16 : [Triangle Pattern 14](./Triangle14.java)
 Problem 17 : [Diamond Pattern](./DiamondPattern.cpp)
 
 Problem 18 : [Triangle Pattern 15](./Triangle15.java)
+
+Problem 19 : [Hollow Diamond](./HollowDiamond.java)
 
 You can also add a new practice question in any language of your choice.
 
