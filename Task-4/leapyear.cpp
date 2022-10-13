@@ -3,7 +3,7 @@ using namespace std;
  
 bool checkLeapYear(int year)
 {
-    return year % 4 == 0 && year % 400 != 0;
+    return year % 400 == 0 || year % 4 == 0 && year % 100 != 0;
 }
 
 void outputLeapYear(int year) {
@@ -15,13 +15,13 @@ void outputLeapYear(int year) {
 int main()
 {
     outputLeapYear(1900);
-    // 2000 was not a Leap Year
+    // 1900 was not a Leap Year
     
     outputLeapYear(2000);
     // 2000 was a Leap Year
     
     outputLeapYear(2004);
-    // 2000 was a Leap Year
+    // 2004 was a Leap Year
                     
     outputLeapYear(2022);
     // 2022 was not a Leap Year
