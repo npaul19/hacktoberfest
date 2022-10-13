@@ -1,6 +1,6 @@
-
 public class DayOfYear {
     public static void main(String... args) {
+        // Given a year, month, and day (each as an integer), return the day of the year as an integer.
         System.out.println(dayOfYear(2022, 1, 1)); // January 1, 2022 is the 1st day of the year
         System.out.println(dayOfYear(2022, 3, 1)); // March 1, 2022 is the 57th day of the year
         System.out.println(dayOfYear(2022, 12, 31)); // December 31, 2022 is the 365th day of the year
