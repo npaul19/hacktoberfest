@@ -19,3 +19,4 @@ Contributers List:
 - [Noora Nasrin VC](https://github.com/nooranasrin)
 - [Jaya Gupta](https://github.com/jaya2320)
 - [Arihant Kaushik](https://github.com/SatyamAK)
+- [Mutapally Pranitha](https://github.com/PranithaMutapally)
