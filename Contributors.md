@@ -21,3 +21,4 @@ Contributers List:
 - [Arihant Kaushik](https://github.com/SatyamAK)
 - [Mutapally Pranitha](https://github.com/PranithaMutapally)
 - [Nallammai](https://github.com/nallammai-maruthappan)
+- [Binni](https://github.com/droidbg)
