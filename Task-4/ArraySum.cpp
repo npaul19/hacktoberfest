@@ -1,11 +1,10 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// function to return sum of elements in an array of size n
 int sum(int arr[], int n)
 {
-  // Insert code here
-	return 0;
+  int sum = accumulate(arr, arr+n, 0);
+  return sum;
 }
 
 int main()
@@ -15,3 +14,5 @@ int main()
 	cout << "Sum of given array is " << sum(arr, n);
 	return 0;
 }
+
+//Prints 34
