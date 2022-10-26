@@ -25,3 +25,4 @@ Contributers List:
 - [Lakshmi Sreejith](https://github.com/laks-mi1099)
 - [Balla Haritha](https://github.com/harithaballa3)
 - [Shivali Gupta](https://github.com/shivali0810)
+- [Laurenziello](https://github.com/laurenziello)
