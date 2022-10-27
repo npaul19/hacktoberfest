@@ -26,3 +26,4 @@ Contributers List:
 - [Balla Haritha](https://github.com/harithaballa3)
 - [Shivali Gupta](https://github.com/shivali0810)
 - [Laurenziello](https://github.com/laurenziello)
+- [Amogh Paul](https://github.com/Amoghpaul)
